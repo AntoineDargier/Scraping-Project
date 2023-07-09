@@ -1,8 +1,8 @@
-# Scrapping-Project
-Scrapping and alerts, Personal Project, Summer 2022
+# Scraping-Project
+Scraping and alerts, Personal Project, Summer 2022
 
 ### Goal
-Scrapping of the school rooms reservation site, and alert me when a new room is available
+Scraping of the school rooms reservation site, and alert me when a new room is available
 
 ### Language
 ```Python```
